@@ -1,9 +1,11 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=27&pause=1000&color=F700ED&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!%F0%9F%A4%9D+Eu+sou+o+Carlos+Eduardo.;Full+Stack+Developer" alt="Typing SVG" /></a></h1>
 
    <p>Tenho interesse em aprender novas tecnologias e aprimorar minhas habilidades de programação, buscando sempre contribuir para os projetos da empresa e para o meu crescimento profissional!!!</p>
-
+<div>
+   <center>
    ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlin68401&show_icons=true&theme=cobalt)
-   
+      </center>
+   </div>
 <h2> Tecnologias mais utilizadas </h2>
 <div>
             <img class="badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
@@ -15,7 +17,7 @@
             <img class="badge" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".net">
             <img class="badge" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite">
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlin68401&layout=donut" alt="Top Langs">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlin68401&layout=donut" alt="Top Langs">
 
 </div>
 
