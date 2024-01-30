@@ -16,7 +16,7 @@
             <img class="badge" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite">
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlin68401&layout=donut" alt="Top Langs">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=carlin68401&theme=tokyonight" alt="CarlosEduardo" />
+
 </div>
 
  <h2>Estou estudando atualmente</h2>
