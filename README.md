@@ -15,7 +15,7 @@
             <img class="badge" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".net">
             <img class="badge" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite">
 <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlin68401&layout=donut" alt="Top Langs">
+
 
 </div>
 
